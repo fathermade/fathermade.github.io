@@ -17,5 +17,6 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll -->
 
-Fathermade on Google Play [fathermade-google](https://play.google.com/store/apps/developer?id=FatherMade)
-Fathermade on Apple App Store [fathermade-apple](https://apps.apple.com/al/developer/chansu-lee/id1353719642)
+FatherMade on [Google Play](https://play.google.com/store/apps/developer?id=FatherMade)
+
+FatherMade on [Apple App Store](https://apps.apple.com/al/developer/chansu-lee/id1353719642)
